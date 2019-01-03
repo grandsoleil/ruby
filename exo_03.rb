@@ -1,1 +1,1 @@
- "ruby exo_03.rb\n#{}Bonjour, monde !\nEt avec une voix sexy, ça donne : Bonjour, monde !"
+puts "ruby exo_03.rb\n#{}Bonjour, monde !\nEt avec une voix sexy, ça donne : Bonjour, monde !"
