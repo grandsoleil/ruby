@@ -1,4 +1,4 @@
-# $ #{} = string interpolation operator, permet d'inserer une expression dans un string
+# $ #{} = string interpolation operator, permet d'inserer une expression dans un string, dans cet exo notemment des calculs
 
 #affiche un string
 puts "On va compter le nombre d'heures de travail à THP"
