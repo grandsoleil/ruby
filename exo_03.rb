@@ -1,0 +1,1 @@
+puts "ruby exo_02.rb\n#{}Bonjour, monde !\nEt avec une voix sexy, ça donne : Bonjour, monde !"
