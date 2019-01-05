@@ -3,9 +3,12 @@ number=gets
 
 puts "Voici la pyramide :"
 
+space = " "
 dieze = "#"
 etage = number.to_i - number.to_i + 1
+distance = number.to_i
 while etage <= number.to_i
-	puts dieze * etage
+	puts (space * distance) + (dieze * etage)
 	etage += 1
+	distance -= 1
 end
